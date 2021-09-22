@@ -63,3 +63,13 @@ The files in data remained unchanged and no new files are created.
 After that, the preprocessed files are saved in the save file.
 Therefore, all the information should be in the save folder.
 Data folder is only used as a starting point.
+
+This software used : 
+Cuda 9.0 (+ patches) (Compatibility reason for cuDNN)
+cuDNN 7.2.1 for CUDA 9.0 (Compatibility reason for TensorFlow)
+Python 3.6.4
+Librairies Python :
+    tensorflow 1.7 (CPU install for generation)
+    tensorflow-gpu 1.7 (CPU install for generation)
+    PyStemmer 1.3.0 (Tokenization with stemming)
+    python-osc 1.6.8 (OSC Messaging)
