@@ -1,5 +1,7 @@
 ## DOCUMENTATION
 
+This work is partly based on https://github.com/hunkim/word-rnn-tensorflow
+
 There are 4 possible entry points in this code :
 - train.py
 - demo.py
